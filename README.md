@@ -59,5 +59,3 @@ flutter run
 
 
 
-
-If you want an **even shorter version (10–12 lines)** or one **specifically styled for marks**, just say the word 👌
